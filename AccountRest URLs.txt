@@ -1,0 +1,12 @@
+welcome ==> http://localhost:9010/api/account/
+
+GET-All ==> http://localhost:9010/api/account/all
+
+GET-By id==> http://localhost:9010/api/account/1001
+
+PUT ==> http://localhost:9010/api/account/1002
+
+DELETE ==> http://localhost:9010/api/account/1001
+
+POST ==> http://localhost:9010/api/account/
+
